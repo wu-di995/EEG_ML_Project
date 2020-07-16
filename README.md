@@ -8,5 +8,3 @@ In the same recording, the subject switches between counting only in their mind 
 In the same recording, the subject switches between reading only in their mind (“think”) and reading aloud (“read”). 
 Each EEG recording contains 32 channels of readings sampled at 128 samples/s. 
 
-## Folders 
-"Python Notebooks"
